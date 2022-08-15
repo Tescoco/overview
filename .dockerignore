@@ -1,0 +1,7 @@
+*/.vscode
+client/build
+client/node_modules
+.git
+*/todo
+
+target
